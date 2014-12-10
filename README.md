@@ -22,3 +22,8 @@ Web architecture for projects developed under MetaCommunity.info
 * Glassfish EE Server
 * Apache HTTPD
 
+
+### Portal Architecture
+
+* Liferay Portal
+* (TBD) Portlets for creating a dashboard out of each component of the _development architecture_
