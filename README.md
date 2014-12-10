@@ -5,7 +5,7 @@ Web architecture for projects developed under MetaCommunity.info
 
 ## Architecture
 
-### Development Architecture (Ideal ModeL)
+### Development Architecture (Ideal Model)
 
 * [YouTrack](https://www.jetbrains.com/youtrack/)
 * [Github](https://github.com/) (hosted) or [Gitorious](http://getgitorious.com/) (local)
@@ -26,4 +26,9 @@ Web architecture for projects developed under MetaCommunity.info
 ### Portal Architecture
 
 * Liferay Portal
-* (TBD) Portlets for creating a dashboard out of each component of the _development architecture_
+* (TBD) Portlets for creating a dashboard out of components of the _development architecture_
+* (TBD) Portlets for presentation of project documentation
+* (TBD) Portlets for presentation of project file releases
+* Similar works:
+    * [SourceForge](http://sourceforge.net/)
+    * [Alioth](http://alioth.debian.org/) ([FushionForge](https://fusionforge.org)) 
